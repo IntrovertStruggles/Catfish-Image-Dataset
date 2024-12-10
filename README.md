@@ -15,4 +15,4 @@ Content:
 
     > Video: 4K@30fps, 1080p@30/60fps; gyro-EIS
 
-    > This dataset was taken with a ring light with a diameter of 26cm and the fish were put in a semi-transparent bucket with a diameter of 26cm and height of 35cm, the ring light is placed right on the mouth of the bucket        while the camera is on the middle of the ring light with max brightness. HDR feature of the camera were used to capture these images.
+    > This dataset was taken with a ring light with a diameter of 26cm and the fish were put in a semi-transparent bucket with a diameter of 26cm and height of 35cm, the ring light is placed right on the mouth of the bucket while the camera is on the middle of the ring light with max brightness. HDR feature of the camera were used to capture these images.
